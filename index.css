@@ -3,13 +3,20 @@ body {
     display: flex;
     flex-direction: column;
     margin: 25px auto;
-    padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
     background-color: #C6C6C6;
 }
 
-.color{
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.content{
     background-color: white;
+    border-radius: 15px;
+    border: 3px solid black;
 }
 
 .top-container{
@@ -35,8 +42,6 @@ body {
     display: flex;
     margin: 11px 0;
     align-items: center;
-
-    /* background-color: lightblue; */
 }
 
 .margin{
@@ -45,8 +50,6 @@ body {
 
 .name{
     line-height: 16px;
-
-    /* background-color: lightcoral; */
 }
 
 .location{
@@ -63,18 +66,18 @@ body {
     height: 22px;
 }
 
-.margin-top{
+.interaction-btn:hover,
+.interaction-btn:active{
+    opacity: 0.7;
+}
 
+.margin-top{
     margin-top: 10px;
     margin-bottom: 4px;
-    /* margin-bottom: 0;
-    padding: 0; */
-
-    /* background-color: lightcoral; */
 }
 
 .spacing{
-    margin-left: 20px;
+    margin-left: 5px;
 }
 
 .name,
@@ -91,10 +94,8 @@ body {
 .accent-font{
     margin-left: 13px;
     padding: 0;
-
-    /* background-color: lightblue; */
 }
 
-.margen{
+.margen-btm{
     margin-bottom: 15px;
 }
