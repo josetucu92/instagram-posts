@@ -2,10 +2,10 @@ This repo was created with the intention of practicing the bases acquired in the
 
 Below some examples from this project:
 
-(https://user-images.githubusercontent.com/98038883193285512-863017ea-3ed4-4493-9e69-81c806bff1c0.png)
+![imagen-1](https://user-images.githubusercontent.com/98038883/193287632-bab8d47a-539e-4964-85c9-688fee083208.png)
 
 
-(https://user-images.githubusercontent.com/98038883/193286171-66a3709a-7da3-47aa-9b08-86ba5f1f35f3.png)
+![img2](https://user-images.githubusercontent.com/98038883/193287726-df837b62-dc8b-4f90-9eca-c20cc51d1ab1.png)
 
 
-(https://user-images.githubusercontent.com/98038883/193286639-e7033a1f-91cf-4611-ae37-6a13ac618686.png)
+![img3](https://user-images.githubusercontent.com/98038883/193287770-27b16ae2-6ee7-4039-b4ea-1d158e9afd50.png)
