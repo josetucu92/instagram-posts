@@ -37,7 +37,7 @@ const displayInHtml = posts.map((post) => {
     <div class="content">
     <div class="top-container">
       <img class="logo-img" src="images/logo.png" />
-      <img class="avatar-img" src="images/user-avatar.png" />
+      <img class="avatar-img" src="images/user-avatar.jpg" />
     </div>
 
     <div class="header">
